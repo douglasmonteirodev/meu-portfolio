@@ -34,9 +34,9 @@ const Nav = () => {
                 <BiBookBookmark />
             </a>
             <a
-                href='#portifolio'
-                onClick={() => setActiveNav("#portifolio")}
-                className={activeNav === "#portifolio" ? "active" : ""}
+                href='#portfolio'
+                onClick={() => setActiveNav("#portfolio")}
+                className={activeNav === "#portfolio" ? "active" : ""}
             >
                 <AiOutlineFileProtect />
             </a>

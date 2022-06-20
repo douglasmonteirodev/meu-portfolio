@@ -4,7 +4,7 @@ import data from "./Data";
 
 const Portfolio = () => {
     return (
-        <section id='portifolio'>
+        <section id='portfolio'>
             <h5>Recent projects</h5>
             <h2>Portfólio</h2>
 
