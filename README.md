@@ -2,7 +2,7 @@
 
 ## Projeto usando React
 
-## GitPage: https://douglasmonteirodev.github.io/website
+## Link: https://douglasmonteirodev.github.io/website
 
  <p align="center">
       <img src="src/assets/preview/home.png">
