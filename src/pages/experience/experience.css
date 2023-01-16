@@ -84,6 +84,9 @@
   .experience--details div {
     margin-right: 0;
   }
+  .experience--container > div {
+    font-size: 13px;
+  }
   .experience--details-icons {
     margin-right: -0.6rem;
   }

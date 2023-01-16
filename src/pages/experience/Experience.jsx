@@ -72,15 +72,16 @@ const Experience = () => {
             <article className="experience--details">
               <RiShieldCheckFill className="experience--details-icons" />
               <div>
-                <h4>PostgresSQL</h4>
+                <h4>Firebase</h4>
               </div>
             </article>
             <article className="experience--details">
               <RiShieldCheckFill className="experience--details-icons" />
               <div>
-                <h4>Firebase</h4>
+                <h4>PostgresSQL</h4>
               </div>
             </article>
+
             <article className="experience--details">
               <RiShieldCheckFill className="experience--details-icons" />
               <div>
