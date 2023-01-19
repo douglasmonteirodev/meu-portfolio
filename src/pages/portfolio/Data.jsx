@@ -1,59 +1,59 @@
-import IMG1 from "../../assets/portfolio1.png";
-import IMG2 from "../../assets/portfolio2.png";
-import IMG3 from "../../assets/portfolio3.png";
-import IMG4 from "../../assets/portfolio4.png";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.png";
-import IMG7 from "../../assets/portfolio7.png";
-import IMG8 from "../../assets/portfolio8.png";
-import IMG9 from "../../assets/portfolio9.png";
+import gamerdev from "../../assets/portfolio1.png";
+import youtube from "../../assets/portfolio2.png";
+import space from "../../assets/portfolio3.png";
+import netflix from "../../assets/portfolio7.png";
+import expanse from "../../assets/portfolio8.png";
+import barber from "../../assets/portfolio10.png";
+import waiterapp from "../../assets/portfolio12.png";
+import devchat from "../../assets/portfolio13.png";
+import finanApp from "../../assets/portfolio14.png";
 
 const data = [
   {
-    image: IMG1,
-    title: "Gamerdev",
+    image: barber,
+    title: "BarberPRO",
+    github: "https://github.com/douglasmonteirodev/barberpro-web",
+  },
+  {
+    image: waiterapp,
+    title: "Waiter App",
+    github: "https://github.com/douglasmonteirodev/waiterapp-web",
+  },
+  {
+    image: devchat,
+    title: "Dev chat",
+    github: "https://github.com/douglasmonteirodev/devchat",
+  },
+  {
+    image: gamerdev,
+    title: "Gamer Dev",
     github: "https://github.com/douglasmonteirodev/gamerdev",
   },
   {
-    image: IMG2,
-    title: "Youtube clone",
-    github: "https://github.com/douglasmonteirodev/youtube_clone",
+    image: finanApp,
+    title: "App de Finanças",
+    github: "https://github.com/douglasmonteirodev/finanApp",
   },
   {
-    image: IMG3,
-    title: "Space Flight News",
+    image: space,
+    title: "Space Flight",
     github: "https://github.com/douglasmonteirodev/space-flight",
   },
   {
-    image: IMG4,
-    title: "Nft Website",
-    github: "https://github.com/douglasmonteirodev/nft-website",
-  },
-  {
-    image: IMG5,
-    title: "Smart Apple",
-    github: "https://github.com/douglasmonteirodev/smartapple",
-  },
-  {
-    image: IMG6,
-    title: "Workout Website",
-    github: "https://github.com/douglasmonteirodev/workout-website",
-  },
-  {
-    image: IMG7,
+    image: netflix,
     title: "Netflix clone",
     github: "https://github.com/douglasmonteirodev/netflixclone-com-react",
   },
 
   {
-    image: IMG8,
-    title: "Expanse Tracker",
-    github: "https://github.com/douglasmonteirodev/expanse-tracker",
+    image: youtube,
+    title: "Youtube clone",
+    github: "https://github.com/douglasmonteirodev/youtube_clone",
   },
   {
-    image: IMG9,
-    title: "Json PlaceHolder Albums ",
-    github: "https://github.com/douglasmonteirodev/jsonplaceholder",
+    image: expanse,
+    title: "Expanse Tracker",
+    github: "https://github.com/douglasmonteirodev/expanse-tracker",
   },
 ];
 

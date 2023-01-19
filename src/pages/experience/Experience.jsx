@@ -13,14 +13,14 @@ const Experience = () => {
             <article className="experience--details">
               <RiShieldCheckFill className="experience--details-icons" />
               <div>
-                <h4>HTML</h4>
+                <h4>HTML5</h4>
               </div>
             </article>
 
             <article className="experience--details">
               <RiShieldCheckFill className="experience--details-icons" />
               <div>
-                <h4>CSS</h4>
+                <h4>CSS3</h4>
               </div>
             </article>
 
