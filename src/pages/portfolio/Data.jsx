@@ -11,7 +11,7 @@ import finanApp from "../../assets/portfolio14.png";
 const data = [
   {
     image: barber,
-    title: "BarberPRO",
+    title: "Barber Pro",
     github: "https://github.com/douglasmonteirodev/barberpro-web",
   },
   {
@@ -21,7 +21,7 @@ const data = [
   },
   {
     image: devchat,
-    title: "Dev chat",
+    title: "Dev chat app",
     github: "https://github.com/douglasmonteirodev/devchat",
   },
   {
