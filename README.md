@@ -1,23 +1,21 @@
-# MEU PORTIFÓLIO
+# MEU WEBSITE
 
-## Projeto usando React
-
-## Link: https://douglasmonteirodev.github.io/website
+[![Blog](https://img.shields.io/website?label=deploy&style=for-the-badge&url=https://douglasmonteiro.vercel.app/)](https://douglasmonteiro.vercel.app/)
 
  <p align="center">
-      <img src="src/assets/preview/home.png">
-</p>
+     <img src="src/assets/preview/home.png">
+ </p>
 
-## Informações
+## Objetivo:
 
-### Objetivo desse projeto foi criar um site onde eu possa mostrar um pouco sobre mim, habilidades e opções de contato
+### Objetivo desse projeto foi criar um site onde eu possa mostrar um pouco sobre mim, habilidades e opções de contato.
 
-## Descrição
+## Descrição:
 
-- `Página home com opção de baixar meu CV.`
+- `Projeto feito com React JS.`
 - `Minhas skills.`
 - `Projetos recentes com link do github.`
 - `Formulário de contato.`
 - `Minhas redes sociais.`
 
-# Douglas Monteiro ❤😎
+## <i>Douglas Monteiro</i> 😁🔥🚀
