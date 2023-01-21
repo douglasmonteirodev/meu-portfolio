@@ -15,7 +15,7 @@ const Footer = () => {
           <a href="#experience">Habilidades</a>
         </li>
         <li>
-          <a href="#portfolio">Portfólio</a>
+          <a href="#portfolio">Projetos</a>
         </li>
         <li>
           <a href="#contact">Contato</a>
@@ -30,7 +30,7 @@ const Footer = () => {
           <FaFacebookF />
         </a>
         <a
-          href="https://www.instagram.com/douglas.monteiro01/"
+          href="https://www.instagram.com/douglas.monteiro10/"
           rel="noreferrer"
           target="_blank"
         >
