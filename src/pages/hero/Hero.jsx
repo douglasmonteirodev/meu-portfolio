@@ -21,10 +21,10 @@ const Hero = () => {
 
           <div className="hero--title">
             <div className="hero--title-wrapper">
-              <div className="hero--wrapper-item">Desenvoldedor Front End</div>
-              <div className="hero--wrapper-item">Desenvoldedor Front End</div>
-              <div className="hero--wrapper-item">Desenvoldedor Front End</div>
-              <div className="hero--wrapper-item">Desenvoldedor Front End</div>
+              <div className="hero--wrapper-item">Desenvoldedor Web</div>
+              <div className="hero--wrapper-item">Desenvoldedor Web</div>
+              <div className="hero--wrapper-item">Desenvoldedor Web</div>
+              <div className="hero--wrapper-item">Desenvoldedor Web</div>
             </div>
           </div>
 
